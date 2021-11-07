@@ -1,0 +1,38 @@
+.jumbotron {
+  margin-top: 0;
+  background-color: rgb(26, 185, 92);
+  color: beige;
+  height: 100vh;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+img {
+  width: 29%;
+  height: 30%;
+  float: right;
+}
+body {
+  background-color: rgb(218, 218, 218);
+  padding: 0;
+}
+.well {
+  display: block;
+  margin: 0%;
+}
+.container {
+  margin: 0;
+}
+.s{
+    margin-top: 3%;
+}
+#leer{
+    margin-top: 20%;
+    background-color: rgb(48, 180, 8);
+    height: 20%;
+    transition: all .6s;
+}
+#leer:hover{
+    background-color: rgb(0, 0, 0);
+    color: cornsilk;
+}
+
